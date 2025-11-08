@@ -6,7 +6,7 @@ const vm = require('vm');
 module.exports.config = {
     name: "install",
     version: "1.4.0",
-    hasPermission: 0,
+    hasPermission: 2,
     credits: "rX Abdullah",
     description: "Install a JS command from code or URL; replace existing with confirmation.",
     usePrefix: true,
