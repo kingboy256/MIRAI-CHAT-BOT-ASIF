@@ -19,7 +19,7 @@ module.exports.config = {
  hasPermssion: 0,
  credits: "rX",
  description: "AI auto teach with Teach & List  support + Typing effect",
- commandCategory: "box",
+ commandCategory: "Ai",
  usages: "[query]",
  cooldowns: 0,
  prefix: false
