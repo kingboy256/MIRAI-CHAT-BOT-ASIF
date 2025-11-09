@@ -9,7 +9,7 @@ module.exports.config = {
   hasPermission: 0,
   credits: "Mohammad 𝐀𝐊𝐀𝐒𝐇 x Saiful",
   description: "Play random gojol with prefix command",
-  commandCategory: "music",
+  commandCategory: "media",
   usages: "[prefix]gojol",
   cooldowns: 5
 };
