@@ -1,159 +1,102 @@
-<br><br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxmaria761&langs_count=8&theme=react&bg_color=151515" />
-</p>
-<p align="center">
-<a href="https://github.com/rxmaria761"><img alt="MARIA BOT Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=rxmaria761&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rxmaria761&theme=black-ice"
-    alt="rX Abdullah"/></p>
+<div align="center">
 
-<br/>
+  <!-- Header typing + avatar -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=🤖+MIRAI+BOT+MESSENGER+—+by+𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝+𝐀𝐤𝐚𝐬𝐡+🐐" alt="MIRAI BOT MESSENGER"/>
+  </p>
 
+  <img src="https://i.imgur.com/bMtWFb6.jpeg" width="600" style="border-radius:50%;margin-top:10px;margin-bottom:10px;" alt="Mohammad Akash"/>
 
-<br />
-<p align="center">
-    <a href="https://github.com/rxabdullah007/MIRAI-MESSENGER-BOT-BY-RX">
-        <img src="https://i.imgur.com/I0kvVfu.jpeg" alt="Logo">
+  <!-- Sub-heading animated -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=580&lines=🚀+MIRAI+BOT+MESSENGER+Reloaded;⚡+Built+by+Mohammad+Akash;💫+Fast%2C+Smart+%26+Reliable;💥+Messenger+Bot+Evolution" alt="sub"/>
+  </p>
+
+  <hr style="width:90%;opacity:0.2"/>
+
+  <!-- About -->
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&color=00FFD1&center=true&vCenter=true&width=760&lines=🌟+About;MIRAI+BOT+MESSENGER+—+A+next-level+Messenger+bot,+redefined+by+Mohammad+Akash." alt="about-typing" />
+  </h2>
+
+  <!-- Features -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=400&color=FFB86B&center=true&vCenter=true&width=760&lines=🛠+Features" alt="features-title"/>
+  </h3>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=300&color=FFFFFF&center=true&vCenter=true&width=760&lines=🚀+Auto+Reply+%26+Smart+Commands;🎭+Welcome+%2F+Leave+System;📦+Custom+Commands;🕹️+Admin+Tools+%26+Fun+Features;🌍+Multi-language+Support+(EN,+BN)" alt="features-list"/>
+  </p>
+
+  <hr style="width:80%;opacity:0.12"/>
+
+  <!-- Developer Info -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=300&color=00C4FF&center=true&vCenter=true&width=760&lines=💡+Developer+Info" alt="dev-title"/>
+  </h3>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=200&color=00FFD1&center=true&vCenter=true&width=760&lines=👑+Developer:+Mohammad+Akash;⚙️+Based+on:+Mirai+Bot+messenger+Framework;📆+Version:+2.0+(Custom+Edition)" alt="dev-lines"/>
+  </p>
+
+  <!-- Social Links -->
+  <p align="center" style="margin-top:10px;">
+    <a href="https://facebook.com/arakashiam" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
+    <a href="https://t.me/arakashiam" target="_blank" style="margin-left:8px;">
+      <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+  </p>
 
-<h3 align="center">MARIA CHATBOT</h3>
+  <hr style="width:80%;opacity:0.12"/>
 
-<p align="center">
-    A simple Facebook Messenger Bot made by me (rX Abdullah).
-    <br />
-    <br />
-    <a href="https://github.com/rxabdullah007/MIRAI-MESSENGER-BOT-BY-RX/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/rxabdullah007/MIRAI-MESSENGER-BOT-BY-RX/pulls">Request Feature</a>
-    </p>
-</p>
+  <!-- Credits -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2600&pause=300&color=FF6B6B&center=true&vCenter=true&width=760&lines=❤️+Credits" alt="credits-title"/>
+  </h3>
 
-<p align="center">
-	<img alt="size" src="https://img.shields.io/github/repo-size/rxabdullah007/MIRAI-MESSENGER-BOT-BY-RX.svg?style=flat-square&label=size">
-	<img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=red&label=code%20version&prefix=v&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2FmiraiPr0ject%2Fmiraiv2%2Fmaster%2Fpackage.json&style=flat-square">
-	<a href="https://github.com/rxabdullah007/MIRAI-MESSENGER-BOT-BY-RX/commits"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/rxabdullah007/MIRAI-MESSENGER-BOT-BY-RX.svg?label=commit&style=flat-square"></a>
-    	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=rxabdullah007.MIRAI-MESSENGER-BOT-BY-RX">
-	
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2800&pause=200&color=FF8C6B&center=true&vCenter=true&width=760&lines=Special+thanks+to+Rx+Abdullah+for+the+base+work+and+inspiration." alt="credits-lines"/>
+  </p>
 
-## License
+  <hr style="width:80%;opacity:0.12"/>
 
-This project is licensed under the GNU General Public License v3.0 or later - see the [COPYING](./COPYING) file for details.
+  <!-- Call-to-action -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFD1&center=true&vCenter=true&width=620&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Mohammad+Akash;Follow+on+FB+and+TG+for+updates!" alt="cta" />
+  </p>
 
+  <!-- Footer -->
+  <p align="center" style="margin-top:10px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=2200&pause=200&color=FFFFFF&center=true&vCenter=true&width=760&lines=⚡+Ready+to+use+%7C+Premium+style+available+%7C+Contact:+@arakashiam" alt="footer-typing"/>
+  </p>
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" style="margin-top:14px;"/>
 
-
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-
-## 🚀 Features
-
--  Chat ai
--  smart telking
-- etc
+</div>
 
 ---
 
-##
+## 🧠 Ready to Use
 
-- Facebook Messenger chatbot functionality
-- Facebook login through `appstate.json` (cookies)
-- 150+ built-in commands
-- Easily customizable structure for developers
+This README has been updated to represent **MIRAI BOT MESSENGER**,  
+original credit set to **Rx Abdullah**, and polished for **ready-to-use** release.
 
+### ⚙️ Requirements
+- Node.js 18+  
+- npm or yarn  
+- A VPS / Render / Replit environment  
+- Facebook Page access token and verify token  
 
-## 🧰 Requirements
-
-- **Node.js version 18 or above (18+)**
-- Facebook `appstate.json` file (login cookie JSON)
-
-
-## ⚙️ Installation
-
-### 1. Repository Clone Karein
-
+### 🚀 Quick Install
 ```bash
-https://github.com/rxabdullah007/MIRAI-MESSENGER-BOT-BY-RX.git
-```
+# 🔥 Clone Repository
++ git clone https://github.com/mdakashproject/MIRAI-CHAT-BOT-AKASH.git
++ cd MIRAI-CHAT-BOT-AKASH
 
-### 2. Dependencies Installed
+# ⚙️ Install Dependencies
++ npm install
 
-```bash
-npm install
-```
-
-### 3. Facebook Appstate Add Do it
-
-- Paste your Facebook account's `appstate.json` file in the root folder.
-
-- Ensure that the file is valid and updated.
-
-### 4. Run the Bot
-
-```bash
-node Rxabdullah.js
-```
-
----
-
-## 🚀 Usage
-
-- The bot will login to your Facebook account as soon as it is launched.
-
-- It listens to Messenger chats in the background.
-
-- You can use available commands like:
-
-```
-!help
-!up
-!song [name]
-!info
-```
-- The bot automatically tracks group and user data (if the database is configured).
-
----
-
-## 🛠️ Tech Used
-
-- HTML5  
-- CSS3  
-- JavaScript (vanilla)
-
----
-
-## 👨‍💻 Owner Info
-
-**Name:** RX Abdullah  
-**Age:** 17+  
-**Class:** Intermediate  
-**Lives in:** Mohammadpur, Dhaka  
-**Born in:** Rajshahi  
-**Hobbies:** Coding, Riding Bikes  
-**Fav Bike:** KTM RC
-
----
-
-## 🌐 Live Demo
-
-You can preview the page by opening the HTML file in any browser.
-
-🔗 Messenger: [Message RX Abdullah](https://m.me/rxabdullah007)
-
----
-
-## 📁 File Structure
-
-
----
-
-## ✨ OWNAR PHOTO
-
-![Preview](https://i.postimg.cc/nhxxB67n/IMG-0793.jpg)
-
----
-
-## 💬 Thanks for visiting!
-
-Made with 💚 by **RX Abdullah**
+# 🚀 Start Bot
++ node Rxabdullah.js
