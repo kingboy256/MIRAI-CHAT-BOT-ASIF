@@ -5,7 +5,7 @@ module.exports = {
     hasPermssion: 0,
     credits: "rX",
     description: "Auto detect and download videos from YouTube, TikTok, Instagram, etc.",
-    commandCategory: "user",
+    commandCategory: "noPrefix",
     usages: "",
     cooldowns: 5,
   },
