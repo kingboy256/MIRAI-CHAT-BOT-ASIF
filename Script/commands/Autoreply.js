@@ -4,7 +4,7 @@ module.exports.config = {
     hasPermssion: 0,
     credits: "MOHAMMAD AKASH",
     description: "Auto reply for salam & github",
-    commandCategory: "system",
+    commandCategory: "noPrefix",
     cooldowns: 0
 };
 
